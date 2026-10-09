@@ -8,10 +8,10 @@ import {
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import About from "./pages/About";
-import Gallery from "./pages/Gallery";
-import Contact from "./pages/Contact";
+import Gallery from "./Pages/Gallery";
+import Contact from "./Pages/Contact";
 
 import Notice from "./Pages/Notice";
 import Services from "./Pages/Services";
