@@ -8,17 +8,16 @@ import {
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 
-import Home from "./Pages/Home";
-import About from "./pages/About";
-import Gallery from "./Pages/Gallery";
-import Contact from "./Pages/Contact";
-
-import Notice from "./Pages/Notice";
-import Services from "./Pages/Services";
-import Login from "./Pages/Login";
-import Register from "./Pages/Register";
-import Dashboard from "./Pages/Dashboard";
+import About from "./Pages/About";
 import Admin from "./Pages/Admin";
+import Contact from "./Pages/Contact";
+import Dashboard from "./Pages/Dashboard";
+import Gallery from "./Pages/Gallery";
+import Home from "./Pages/Home";
+import Login from "./Pages/Login";
+import Notice from "./Pages/Notice";
+import Register from "./Pages/Register";
+import Services from "./Pages/Services";
 
 
 // ==========================================
